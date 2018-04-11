@@ -1,0 +1,12 @@
+Hello, how are you feeling today. Mind if I note that you look like {:s}?
+You haven't visited here for long time. By the way, you resemble {:s} quite a lot.
+Has your puppy got sick again? By the way, you look like {:s}.
+Has your puppy got injured again? By the way, you resemble {:s} quite a lot.
+Has your puppy got worms again? Mind if I note that you look like {:s}?
+Are you sure you are in a right place? By the way, you resemble {:s} quite a lot.
+Well, my dear {:s}. Have you been dating neighbour's labrador again?
+Hi, {:s}. Are you still barking and howling at night stop?
+Hello, my dear {:s}. You look like needing a parasite protection.
+Hello, my dear {:s}. You look like needing a vaccination.
+Hey, {:s}! Have you done too much agility training again?
+As a {:s} how do you find talking to a computer vet?
